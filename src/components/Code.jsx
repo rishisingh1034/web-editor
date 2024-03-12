@@ -7,7 +7,7 @@ import { DataContext } from '../context/DataProvider';
 const Container = styled(Box)`
 display:flex;
 background-color:#060606;
-height:50vh;
+height:51vh;
 `
 
 const Code = () => {
